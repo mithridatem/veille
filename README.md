@@ -1,2 +1,4 @@
 # Salut la team ^^
-# Vous êtes tous géniaux ! (sauf 1)
+
+# Comment appelle-t-on une chauve-souris avec une perruque ?
+# Une souris.
